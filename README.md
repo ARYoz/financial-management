@@ -1,2 +1,1 @@
-# financial-management
-A system for proper financial management
+# project - Correct financial management
